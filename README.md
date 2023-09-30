@@ -1,2 +1,1 @@
-# awesome-data-solutions
-Awesome Data Solutions
+# 数据分析解决方案合集
